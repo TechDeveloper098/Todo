@@ -7,4 +7,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. npm start.
 
 # Preview
-   <img width="736" alt="image" src="https://github.com/TechDeveloper098/Todo/assets/154778878/35769059-a7a6-4415-92a1-c36fe6d0efd0">
+<img width="787" alt="image" src="https://github.com/TechDeveloper098/Todo/assets/154778878/663b9829-a394-4558-908a-8d6528a96458">
+
